@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 💬 Ask me about **java, spring boot, Hibernate, MVC, React.js, java Script, Advance java**
+- 💬 Ask me about **java, spring boot, MVC, React.js, java Script, Advance java**
 
 - 📫 How to reach me **harshadkhandagale2313@gmail.com**
 
